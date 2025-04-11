@@ -16,7 +16,7 @@ export class TaskListComponent {
   addTask(task: string) {
     console.log('Adding task:', task);
   }
-
+  
   updateTask(task: string) {
     console.log('Updating task:', task);
   }
